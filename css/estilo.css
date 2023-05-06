@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.corpoDoTexto {
+    color: hsl(207, 100%, 50%);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.corpoDoTexto2 {
+    color: #e73846;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: burlywood;
+}
